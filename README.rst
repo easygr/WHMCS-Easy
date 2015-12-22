@@ -22,7 +22,7 @@ Login in Whmcs Admin Panel and follow the steps below:
 a) Go to configuration->domain registrars->registrar settings select Easy.gr and then fill
 API_USERNAME & API_PASSWORD from Easy.gr.
 
-b) Go to configuration->domain pricing, add all the extensions you want. Select Easy.gr
+b) Go to configuration->domain pricing, add all the TLDs you want. Select Easy.gr
 as Registrar.
 
 
@@ -40,6 +40,9 @@ b) Open the file includes/whoisservers.php and replace with your API_USERNAME & 
 
 .eu|https://api.easy.gr/whoisplain?username=API_USERNAME&password=API_PASSWORD&domain=|HTTPREQUEST-not exist
 
+...
+...
+use the above format and add any domain TLD you like. 
 
 
 System Requirements
