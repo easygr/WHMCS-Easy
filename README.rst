@@ -31,9 +31,13 @@ For Domain Name Search:
 a) Download from your server the file includes/whoisservers.php
 
 b) Open the file includes/whoisservers.php and replace with your API_USERNAME & API_PASSWORD
+
 .com|https://api.easy.gr/whoisplain?username=API_USERNAME&password=API_PASSWORD&domain=|HTTPREQUEST-not exist
+
 .gr|https://api.easy.gr/whoisplain?username=API_USERNAME&password=API_PASSWORD&domain=|HTTPREQUEST-not exist
+
 .net|https://api.easy.gr/whoisplain?username=API_USERNAME&password=API_PASSWORD&domain=|HTTPREQUEST-not exist
+
 .eu|https://api.easy.gr/whoisplain?username=API_USERNAME&password=API_PASSWORD&domain=|HTTPREQUEST-not exist
 
 
