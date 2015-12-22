@@ -7,6 +7,7 @@ Installation
 ------------
 
 .. code-block:: bash
+
 First step is to upload the content of folder source to the /path/to/whmcs on your server.
 	
 	
@@ -15,6 +16,7 @@ Settings
 ------------
 
 .. code-block:: bash
+
 Login in Whmcs Admin Panel and follow the steps below:
 
 a) Go to configuration->domain registrars->registrar settings select Easy.gr and then fill
@@ -40,6 +42,7 @@ System Requirements
 -------------------
 
 .. code-block:: bash
+
 *	Easy.gr API_USERNAME
 *	Easy.gr API_PASSWORD
 *	php5-curl
